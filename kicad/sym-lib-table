@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name adg407bnz)(type Legacy)(uri ${KIPRJMOD}/parts/ul_ADG407BNZ/KiCAD/2021-12-11_18-46-06/2021-12-11_18-46-06.lib)(options "")(descr ""))
+  (lib (name ADG1409YRUZ)(type Legacy)(uri ${KIPRJMOD}/ul_ADG1409YRUZ/KiCAD/2021-12-11_19-04-02/2021-12-11_19-04-02.lib)(options "")(descr ""))
+)
