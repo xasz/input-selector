@@ -1,0 +1,36 @@
+Hinweis: Verarbeite Symbol "J2:Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J3:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J1:Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J4:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J5:Connector:Banana_Jack_3Pin".
+Hinweis: Verarbeite Symbol "J6:Connector:Banana_Jack_3Pin".
+Hinweis: Verarbeite Symbol "J7:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J8:Connector:Banana_Jack_3Pin".
+Hinweis: Verarbeite Symbol "J9:Connector:Banana_Jack_3Pin".
+Hinweis: Verarbeite Symbol "JP1:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "JP2:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "JP3:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "K1:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "K2:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "K3:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "K4:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "U1:Package_DIP:DIP-16_W7.62mm_Socket".
+J2 Pin 2 nach Net-(J5-Pad3) verbunden.
+J2 Pin 3 nach Net-(K1-Pad3) verbunden.
+J2 Pin 1 nach Net-(K3-Pad6) verbunden.
+J2 Eigenschaften aktualisiert.
+Symbolverknüpfung J2 von  nach /07405f69-ea7b-4fc3-ad16-8a14d38ceed7 aktualisiert.
+Wert J2 von Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical in AudioOut geändert.
+Referenzbezeichner REF** in J2 geändert.
+J2 hinzugefügt (Footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical").
+J1 Pin 3 nach Net-(K3-Pad6) verbunden.
+J1 Pin 2 nach Net-(J5-Pad3) verbunden.
+J1 Pin 1 nach Net-(K1-Pad3) verbunden.
+J1 Eigenschaften aktualisiert.
+Symbolverknüpfung J1 von  nach /e5763606-ee35-4074-83e0-2be765410073 aktualisiert.
+Wert J1 von Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical in AudioOut geändert.
+Referenzbezeichner REF** in J1 geändert.
+J1 hinzugefügt (Footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical").
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
