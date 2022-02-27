@@ -1,0 +1,30 @@
+Hinweis: Verarbeite Symbol "J2:Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "U1:Package_DIP:DIP-16_W7.62mm_Socket".
+Hinweis: Verarbeite Symbol "K4:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "J1:Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "K3:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "K2:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "K1:Relay_THT:Relay_DPDT_Omron_G6K-2P".
+Hinweis: Verarbeite Symbol "JP4:Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical".
+Hinweis: Verarbeite Symbol "JP3:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "JP2:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "JP1:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "J10:Cinch-Sockets:cinch_2X2_Vertical".
+Hinweis: Verarbeite Symbol "J7:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J4:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "J3:Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical".
+Unbenutztes Netz "Net-(K4-Pad4)" entfernt.
+Unbenutztes Netz "Net-(K3-Pad6)" entfernt.
+Unbenutztes Netz "Net-(K3-Pad3)" entfernt.
+Unbenutztes Netz "Net-(K4-Pad5)" entfernt.
+K4 Pin 5 von Net-(K4-Pad5) nach unconnected-(K4-Pad5) wieder verbunden.
+Netz unconnected-(K4-Pad5) hinzufügen.
+K4 Pin 4 von Net-(K4-Pad4) nach unconnected-(K4-Pad4) wieder verbunden.
+Netz unconnected-(K4-Pad4) hinzufügen.
+K3 Pin 6 von Net-(K3-Pad6) nach unconnected-(K3-Pad6) wieder verbunden.
+Netz unconnected-(K3-Pad6) hinzufügen.
+K3 Pin 3 von Net-(K3-Pad3) nach unconnected-(K3-Pad3) wieder verbunden.
+Netz unconnected-(K3-Pad3) hinzufügen.
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
