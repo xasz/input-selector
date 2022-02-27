@@ -1,2 +1,4 @@
 (sym_lib_table
+  (lib (name "RCA")(type "KiCad")(uri "${KIPRJMOD}/RCA.kicad_sym")(options "")(descr ""))
+  (lib (name "Cinch")(type "KiCad")(uri "${KIPRJMOD}/Cinch.kicad_sym")(options "")(descr ""))
 )
